@@ -8,7 +8,7 @@ Usuarios:
   2.Segundo extremo: personas de 25 en adelante, que no conocen mucho de plantas, pero buscan regalos para darle a conocidos y/o amigos. Ellos piensan que es un regalo especial, distinto, novedoso y auténtico.
   3. La mayoría: personas de 30 en adelante que buscan una conexión con la naturaleza, disminuir la contaminación visual de las ciudades, y sentirse en un espacio (casa y/o jardin) más natural y amable, lejos de las estructuras de construcción. Las plantas les producen un sentimiento de tranquilidad y acogida.
 
-Antecedentes: 
+ 
   ![Image alt text](/antecedentes_y_referentes/antecedentes.jpg)
   https://www.instagram.com/p/CP0odvYok6m/
   https://www.instagram.com/p/CPyZzwOo7vh/
@@ -17,5 +17,5 @@ Antecedentes:
   https://www.instagram.com/p/CP-cLcXDUGX/
   https://www.instagram.com/p/COG_AbUISqX/
 
-Referentes: 
+ 
 ![Image alt text](/antecedentes_y_referentes/referentes.jpg)
