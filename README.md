@@ -9,7 +9,7 @@ Usuarios:
   3. La mayoría: personas de 30 en adelante que buscan una conexión con la naturaleza, disminuir la contaminación visual de las ciudades, y sentirse en un espacio (casa y/o jardin) más natural y amable, lejos de las estructuras de construcción. Las plantas les producen un sentimiento de tranquilidad y acogida.
 
 Antecedentes: 
-  ![Image alt text](/path/antecedentes_y_referentes/antecedentes.jpg)
+  ![Image alt text](/antecedentes_y_referentes/antecedentes.jpg)
   https://www.instagram.com/p/CP0odvYok6m/
   https://www.instagram.com/p/CPyZzwOo7vh/
   https://www.instagram.com/p/COpvsmdIOW_/
@@ -18,4 +18,4 @@ Antecedentes:
   https://www.instagram.com/p/COG_AbUISqX/
 
 Referentes: 
-![Image alt text](/path/antecedentes_y_referentes/referentes.jpg)
+![Image alt text](/antecedentes_y_referentes/referentes.jpg)
