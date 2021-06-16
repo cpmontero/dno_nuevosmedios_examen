@@ -10,6 +10,7 @@ Usuarios:
 
  
   ![Image alt text](/antecedentes_y_referentes/antecedentes.jpg)
+  .
   https://www.instagram.com/p/CP0odvYok6m/
   https://www.instagram.com/p/CPyZzwOo7vh/
   https://www.instagram.com/p/COpvsmdIOW_/
