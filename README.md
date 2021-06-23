@@ -5,12 +5,12 @@ Entregará conocimiento, videos e imágenes de un nuevo vivero de Copihues y ár
 
 Usuarios:
 
-  1.Paula, 27 años: ella vive con una amiga y busca decorar su departamento con un par de plantas para darle un toque verde. No tiene mayor interés en las plantas o la naturaleza, pero vió en Pinterest muchas casa decoradas con plantas y quiere recrear ese ambiente en su departamento. Tiene plantas en las esquinas de su living, que son fáciles de cuidar y mantener. Prefiere calidad a cantidad, así que no le importa pagar un poco más con tal de tener plantas lindas y poco comunes.
+  1. Paula, 27 años: ella vive con una amiga y busca decorar su departamento con un par de plantas para darle un toque verde. No tiene mayor interés en las plantas o la naturaleza, pero vió en Pinterest muchas casa decoradas con plantas y quiere recrear ese ambiente en su departamento. Tiene plantas en las esquinas de su living, que son fáciles de cuidar y mantener. Prefiere calidad a cantidad, así que no le importa pagar un poco más con tal de tener plantas lindas y poco comunes.
   
    ![Image alt text](/arquetipos/decorativa.png)
    
    
-  2.Sergio, 35 años:  vive solo y su departamento tiene los muebles escenciales, no está docarado. No conocen mucho de plantas y tampoco le interesa tener una, pero busca regalos para darle a conocidos y/o amigos en cumpleaños, amigo secreto o matrimonios. Él piensa que es un regalo distinto, novedoso y auténtico, y que será un regalo especial ya que "¿a quién no le gustan las plantas?". Él busca plantas sencillas, de menor tamaño y baratas, ya que los regalos que tiene que hacer son muchos.
+  2. Sergio, 35 años:  vive solo y su departamento tiene los muebles escenciales, no está docarado. No conocen mucho de plantas y tampoco le interesa tener una, pero busca regalos para darle a conocidos y/o amigos en cumpleaños, amigo secreto o matrimonios. Él piensa que es un regalo distinto, novedoso y auténtico, y que será un regalo especial ya que "¿a quién no le gustan las plantas?". Él busca plantas sencillas, de menor tamaño y baratas, ya que los regalos que tiene que hacer son muchos.
   
   ![Image alt text](/arquetipos/planta_regalo.jpeg)
   
@@ -63,6 +63,6 @@ Usuarios:
 
 4. Imágenes de cómo se verían las plántas y árboles en jardines, permite visualizar el contexto y llevarlo a su propio entorno
 
-5.Al igual que el referente 4, las imágenes de plantas de interiores puestas en un cierto contexto permiten imaginar cómo se vería en el propio entorno.
+5. Al igual que el referente 4, las imágenes de plantas de interiores puestas en un cierto contexto permiten imaginar cómo se vería en el propio entorno.
 
 6. Colores y objetos que se relacionan o utilizan con la naturaleza y las plantas, dentro y fuera de la casa. Colores llamativos que contrastan con los colores verdes de las plantas.
