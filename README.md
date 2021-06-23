@@ -22,32 +22,32 @@ Usuarios:
  
  1. Inspired: página que evoca la naturaleza y busca inspirarse en ella.  https://www.instagram.com/p/CP0odvYok6m/
  
- ![Image alt text](/antecedentes_y_referentes/inspired)
+ ![Image alt text](/antecedentes_y_referentes/inspired.png)
  
  
  2. Good things are wild and free: conexión con la naturaleza, meterse dentro de ella y sentirse parte de. https://www.instagram.com/p/CPyZzwOo7vh/
 
-![Image alt text](/antecedentes_y_referentes/good_things)
+![Image alt text](/antecedentes_y_referentes/good_things.png)
 
 
 3. Natural Ecosystem: Da información sobre la naturaleza, datos de plantas y elementos, información en general. https://www.instagram.com/p/COpvsmdIOW_/
 
-![Image alt text](/antecedentes_y_referentes/natural_ecosystem)
+![Image alt text](/antecedentes_y_referentes/natural_ecosystem.png)
 
 
 4. Build your home: Cómo decorar tu propia casa, con tu estilo, tus gustos, tus formas. https://www.instagram.com/p/CQFgFFRDtrX/
 
-![Image alt text](/antecedentes_y_referentes/build)
+![Image alt text](/antecedentes_y_referentes/build.png)
 
 
 5. Musa Dwarf Tropicana: Muestra plantas en forma de catálogo, donde se pueden ver y comparar diferentes tipos en una sola página. https://www.instagram.com/p/CP-cLcXDUGX/
 
-![Image alt text](/antecedentes_y_referentes/musa)
+![Image alt text](/antecedentes_y_referentes/musa.png)
 
 
 6. Flower: utiliza el dibujo como forma de expresión, una forma distinta de representar y mostrar diferentes objetos de la naturaleza  https://www.instagram.com/p/COG_AbUISqX/
 
-![Image alt text](/antecedentes_y_referentes/flower)
+![Image alt text](/antecedentes_y_referentes/flower.png)
 
 
  Referentes:
