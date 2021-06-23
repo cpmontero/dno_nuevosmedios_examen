@@ -53,4 +53,16 @@ Usuarios:
  Referentes:
  
  
-![Image alt text](/antecedentes_y_referentes/referentes.jpg)
+![Image alt text](/antecedentes_y_referentes/ref.jpg)
+
+1. La textura de las acuarelas, además de contrastar con las imágenes, simplifican la forma, pudiendo destacar algunas características por sobre otras de forma intencionada.
+
+2. Las fotos de las plantas en su hábitat permiten recrear su entorno, para poder conocer sus características: si es de sol o sombra, ambiente húmedo o seco, etc. 
+
+3. El catálogo de plantas con sus descripciones permite obtener información de forma rápida y general, pudiendo así escoger las plantas de las cuales se quiere obtener más información, sin tener que ir por cada una.
+
+4. Imágenes de cómo se verían las plántas y árboles en jardines, permite visualizar el contexto y llevarlo a su propio entorno
+
+5.Al igual que el referente 4, las imágenes de plantas de interiores puestas en un cierto contexto permiten imaginar cómo se vería en el propio entorno.
+
+6. Colores y objetos que se relacionan o utilizan con la naturaleza y las plantas, dentro y fuera de la casa. Colores llamativos que contrastan con los colores verdes de las plantas.
