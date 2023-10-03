@@ -605,8 +605,7 @@ progress {
 .container-md,
 .container-sm {
   width: 100%;
-  padding-right: var(--bs-gutter-x, 0.75rem);
-  padding-left: var(--bs-gutter-x, 0.75rem);
+  
   margin-right: auto;
   margin-left: auto;
 }
@@ -10948,8 +10947,8 @@ html {
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     transition: padding-top 0.3s, padding-bottom 0.3s;
   }
   #mainNav .navbar-brand {
@@ -10995,8 +10994,8 @@ html {
 }
 
 .masthead {
-  padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-top: calc(6rem);
+  padding-bottom: 0rem;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
@@ -11011,8 +11010,8 @@ html {
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+    padding-top: calc(6rem);
+    padding-bottom: 0rem;
   }
   .masthead .masthead-heading {
     font-size: 4rem;
@@ -11071,3 +11070,15 @@ html {
 .copyright {
   background-color: #206354;
 }
+
+
+
+/*--esto lo hice yo--*/ 
+
+
+.container.d-flex.align-items-center.flex-column {
+  max-width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
