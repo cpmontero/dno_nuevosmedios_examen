@@ -1,3 +1,3 @@
 # Vivero Kullay
 
-Vivero en la Región del Maule con plantas y flores nativas y otros.
+Vivero de Copihues en la Región del Maule.
