@@ -49,6 +49,14 @@
   }
 }
 
+.container {
+  max-width: 100% !important;
+}
+
+.copihues {
+  padding-bottom: 0 !important;
+}
+
 body {
   margin: 0;
   font-family: Roboto;
@@ -641,8 +649,8 @@ progress {
   display: flex;
   flex-wrap: wrap;
   margin-top: calc(var(--bs-gutter-y) * -1);
-  margin-right: calc(var(--bs-gutter-x) * -.5);
-  margin-left: calc(var(--bs-gutter-x) * -.5);
+  margin-right: calc(var(--bs-gutter-x) * 1);
+  margin-left: calc(var(--bs-gutter-x) * 1);
 }
 .row > * {
   flex-shrink: 0;
@@ -3976,6 +3984,7 @@ textarea.form-control-lg {
 .navbar-brand {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
+  padding-left: 2rem;
   margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
